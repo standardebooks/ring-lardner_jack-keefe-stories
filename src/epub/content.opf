@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/ring-lardner/jack-keefe-stories</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2025-11-20T21:04:29Z</dc:date>
+		<meta property="dcterms:modified">2025-11-20T21:04:29Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -55,15 +55,15 @@
 		<meta property="se:subject">Satire</meta>
 		<meta property="se:subject">Shorts</meta>
 		<meta property="se:subject">Travel</meta>
-		<dc:description id="description">A boastful, near-illiterate major league pitcher writes a series of letters to his friend old friend back home detailing the goings-on of his life and career.</dc:description>
+		<meta property="se:is-a-collection">true</meta>
+		<dc:description id="description">A boastful, nearly illiterate major league pitcher writes a series of letters home detailing the goings-on in his life and career.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;The arrogant, proud, and mostly illiterate Jack Keefe of Bedford, Indiana had already established a career pitching for the minor league baseball club in Terre Haute. His strong pitching arm attracted the attention of White Sox owner Charles Comiskey and before he knew it, Keefe had been signed to play for the Chicago White Sox. Through the ups and downs of his life, from his baseball career to his marriage and family to his service in World War I and eventual return to baseball, Jack Keefe documents everything in a series of letters to his old pal back home, Al Blanchard.&lt;/p&gt;
-			&lt;p&gt;Behind the rubelike dialect of the main character, these stories offer a glimpse at significant figures and moments in the baseball culture of their era. Jack faces off against legends like Ty Cobb, Christy Mathewson, and Babe Ruth. He travels around the world as part of the 1913–1914 Baseball World Tour with the Chicago White Sox and New York Giants. He fights in the trenches during World War I. The final stories take place during his 1919 season with the White Sox, a team who would become infamous for the game-fixing conspiracy in the 1919 World Series, eventually dubbed the “Black Sox Scandal.”&lt;/p&gt;
-			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/ring-lardner"&gt;Ring Lardner&lt;/a&gt; wrote the Jack Keefe stories from 1914–1919. The 26 stories were originally published in &lt;i&gt;The Saturday Evening Post&lt;/i&gt; and while each can be enjoyed as a standalone story, they also form a larger continuous narrative arc. The first six stories were published in book form in 1916 as &lt;i&gt;You Know Me Al&lt;/i&gt; and these six initial stories have become landmarks of baseball culture. Two additional compilations were published containing the nine stories that span Jack’s time as a soldier in World War I under the titles &lt;i&gt;Treat ’em Rough&lt;/i&gt; and &lt;i&gt;The Real Dope&lt;/i&gt;.&lt;/p&gt;
-			&lt;p&gt;Ring Lardner’s unique ability to capture the dialect of middle America was cited as an influence by many authors who would eventually become household names, including &lt;a href="https://standardebooks.org/ebooks/f-scott-fitzgerald"&gt;F. Scott Fitzgerald&lt;/a&gt;, &lt;a href="https://standardebooks.org/ebooks/ernest-hemingway"&gt;Ernest Hemingway&lt;/a&gt;, and &lt;a href="https://standardebooks.org/ebooks/virginia-woolf"&gt;Virginia Woolf&lt;/a&gt;. The Jack Keefe stories are his earliest and most famous works that brought this dialogue style into the public eye.&lt;/p&gt;
+			&lt;p&gt;The arrogant, proud, and mostly illiterate Jack Keefe of Bedford, Indiana had already established a career pitching for the minor league baseball club in Terre Haute. His strong pitching arm attracted the attention of Chicago White Sox owner Charles Comiskey and before he knew it, Keefe had been signed to play for the team. Through the ups and downs of his life, from his baseball career, to his marriage and family, to his service in World War I and his eventual return to baseball, Jack Keefe documents everything in a series of letters to his old pal back home, Al Blanchard.&lt;/p&gt;
+			&lt;p&gt;Behind Keefe’s the rube-like dialect these stories offer a glimpse at significant figures and moments in the era’s baseball culture. Jack faces off against legends like Ty Cobb, Christy Mathewson, and Babe Ruth. He travels around the world as part of the 1913–1914 Baseball World Tour with the Chicago White Sox and New York Giants. He even fights in the trenches during World War I. The final stories take place during his 1919 season with the White Sox, a team who would become infamous for the game-fixing conspiracy in the 1919 World Series dubbed the “Black Sox Scandal.”&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/ring-lardner"&gt;Ring Lardner&lt;/a&gt; wrote the Jack Keefe stories from 1914–1919. The twenty-six stories were originally published in &lt;i&gt;The Saturday Evening Post&lt;/i&gt;, and while each can be enjoyed as a standalone story, they also form a larger continuous narrative arc. The first six stories were published in book form in 1916 as &lt;i&gt;You Know Me Al&lt;/i&gt;, and they became landmarks of baseball culture. Two additional compilations were published containing the nine stories that span Jack’s time as a soldier in World War I under the titles &lt;i&gt;Treat ’em Rough&lt;/i&gt; and &lt;i&gt;The Real Dope&lt;/i&gt;.&lt;/p&gt;
+			&lt;p&gt;Ring Lardner’s unique ability to capture the dialect of middle America was cited as an influence by many authors who would eventually become household names, like &lt;a href="https://standardebooks.org/ebooks/f-scott-fitzgerald"&gt;F. Scott Fitzgerald&lt;/a&gt;, &lt;a href="https://standardebooks.org/ebooks/ernest-hemingway"&gt;Ernest Hemingway&lt;/a&gt;, and &lt;a href="https://standardebooks.org/ebooks/virginia-woolf"&gt;Virginia Woolf&lt;/a&gt;. The Jack Keefe stories are Lardner’s earliest and most famous works that brought this dialogue style to the public eye.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
-		<meta property="se:is-a-collection">true</meta>
 		<!-- A Busher’s Letters Home, The Busher Comes Back, The Busher's Honeymoon, A New Busher Breaks In, The Busher’s Kid, The Busher Beats It Hence -->
 		<dc:source>https://www.gutenberg.org/ebooks/52670</dc:source>
 		<dc:source>https://archive.org/details/youknowmeal00lard</dc:source>
@@ -90,8 +90,8 @@
 		<!-- The Busher Pulls a Mays [v.192 1919 Oct-Dec] #410 -->
 		<dc:source>https://catalog.hathitrust.org/Record/000497622</dc:source>
 		<meta property="se:production-notes">Some spellings were left unmodernized because of it is likely they were misspelled on purpose. Transcriptions were created by the producer using Hathitrust OCR as a base for the 11 stories which had not been published in a book on Project Gutenberg. One of the published book compilations did not divide the content into separate chapters, so magazine scans were used as reference for the story breaks. "The Busher Abroad" was originally a series of four short stories all published under that name. They are represented in this omnibus as one story with four chapters, but were originally published as loosely connected short stories. Preface has been included from 1925 edition of You Know Me Al.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">239436</meta>
+		<meta property="se:reading-ease.flesch">74.56</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/ring-lardner_jack-keefe-stories</meta>
 		<dc:creator id="author">Ring Lardner</dc:creator>
 		<meta property="file-as" refines="#author">Lardner, Ring</meta>
@@ -127,14 +127,18 @@
 		<meta property="role" refines="#transcriber-7" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Jonathan Erdman</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Erdman, Jonathan</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
-		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">trc</meta>
-		<meta property="role" refines="#producer-1" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Weijia Cheng</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cheng, Weijia</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://weijiarhymeswith.asia/</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
