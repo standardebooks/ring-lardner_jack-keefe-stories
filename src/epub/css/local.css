@@ -5,10 +5,6 @@
 	font-variant: all-small-caps;
 }
 
-section[epub|type~="preface"]{
-	margin-top: 20vh;
-}
-
 [epub|type~="z3998:letter"] header{
 	text-align: right;
 }
@@ -42,10 +38,11 @@ article > blockquote,
 }
 
 table{
-	margin: auto;
+	margin: 1em auto;
 }
 
 tr > td:last-of-type{
+	font-variant-numeric: tabular-nums;
 	text-align: right;
 }
 
