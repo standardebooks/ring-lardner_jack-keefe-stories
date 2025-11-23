@@ -80,6 +80,10 @@
 			<reason>This is literally how it appears in the scans. Writing like this is consistent with Jack Keefe's characterization.</reason>
 		</ignore>
 		<ignore>
+			<code>t-057</code>
+			<reason>This is literally how it appears in the scans. Writing like this is consistent with Jack Keefe's characterization.</reason>
+		</ignore>
+		<ignore>
 			<code>t-064</code>
 			<reason>This is capitalized inconsistently. This suggests intentionality by the author and given Keefe's poor spellng and grammar, it would meaningfully alter Keefe's characterization to correct this.</reason>
 		</ignore>
@@ -100,7 +104,17 @@
 			<reason>This is how Jack Keefe writes in-universe, and because commas are sometimes used and sometimes not, the difference is likely an intentional artistic choice by the author.</reason>
 		</ignore>
 		<ignore>
+			<code>y-003</code>
+			<reason>This is how Jack Keefe writes in-universe, and because commas are sometimes used and sometimes not, the difference is likely an intentional artistic choice by the author.</reason>
+		</ignore>
+		<ignore>
 			<code>y-031</code>
+			<reason>This is how Jack Keefe writes in-universe, and because commas are sometimes used and sometimes not, the difference is likely an intentional artistic choice by the author.</reason>
+		</ignore>
+	</file>
+	<file path="the-bushers-welcome-home.xhtml">
+		<ignore>
+			<code>t-057</code>
 			<reason>This is how Jack Keefe writes in-universe, and because commas are sometimes used and sometimes not, the difference is likely an intentional artistic choice by the author.</reason>
 		</ignore>
 	</file>

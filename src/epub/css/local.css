@@ -32,8 +32,7 @@ footer{
 	text-indent: 0;
 }
 
-article > blockquote,
-#the-busher-abroad > section > blockquote{
+div[epub|type~="z3998:letter"]{
 	margin: 1em 0;
 }
 
@@ -70,21 +69,18 @@ p span.i1{
 	text-indent: -1em;
 }
 
-#decorated blockquote:last-of-type > blockquote > header{
+#decorated > div:last-of-type > blockquote > header{
 	font-variant: small-caps;
 	text-align: center;
 }
 
-#decorated > blockquote:last-of-type > blockquote:first-of-type{
+#decorated > div:last-of-type > blockquote:first-of-type p{
 	text-align: center;
-}
-
-#decorated > blockquote:last-of-type p{
 	text-indent: 0;
 }
 
 /* Numbered headings in Jack's letter */
-#stragety-and-tragedy div > header{
+#stragety-and-tragedy > div:nth-of-type(7) blockquote header{
 	font-size: larger;
 	margin-top: 1em;
 	text-align: center;
