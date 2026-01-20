@@ -90,7 +90,7 @@
 		<!-- The Busher Pulls a Mays [v.192 1919 Oct-Dec] #410 -->
 		<dc:source>https://catalog.hathitrust.org/Record/000497622</dc:source>
 		<meta property="se:production-notes">Some spellings were left unmodernized because of it is likely they were misspelled on purpose. Transcriptions were created by the producer using Hathitrust OCR as a base for the 11 stories which had not been published in a book on Project Gutenberg. One of the published book compilations did not divide the content into separate chapters, so magazine scans were used as reference for the story breaks. "The Busher Abroad" was originally a series of four short stories all published under that name. They are represented in this omnibus as one story with four chapters, but were originally published as loosely connected short stories. Preface has been included from 1925 edition of You Know Me Al.</meta>
-		<meta property="se:word-count">239436</meta>
+		<meta property="se:word-count">236174</meta>
 		<meta property="se:reading-ease.flesch">74.56</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/ring-lardner_jack-keefe-stories</meta>
 		<dc:creator id="author">Ring Lardner</dc:creator>
