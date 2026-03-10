@@ -2,96 +2,154 @@
 <se-lint-ignore>
 	<file path="a-bushers-letters-home.xhtml">
 		<ignore code="y-026">
+			<line>107</line>
+			<line>108</line>
+			<line>205</line>
 			<reason>Jack Keefe is intentionally a poor writer and does not use completely proper English.</reason>
 		</ignore>
 	</file>
 	<file path="a-new-busher-breaks-in.xhtml">
 		<ignore code="y-026">
+			<line>54</line>
 			<reason>Jack Keefe is intentionally a poor writer and does not use completely proper English.</reason>
 		</ignore>
 	</file>
 	<file path="along-came-ruth.xhtml">
 		<ignore code="t-005">
+			<line>141</line>
+			<line>147</line>
+			<line>163</line>
+			<line>165</line>
+			<line>166</line>
 			<reason>This is how Jack Keefe writes in-universe, and because commas are sometimes used and sometimes not, the difference is likely an intentional artistic choice by the author.</reason>
 		</ignore>
 		<ignore code="y-031">
+			<line>141</line>
+			<line>147</line>
+			<line>165</line>
+			<line>166</line>
 			<reason>This is how Jack Keefe writes in-universe, and because commas are sometimes used and sometimes not, the difference is likely an intentional artistic choice by the author.</reason>
 		</ignore>
 	</file>
 	<file path="call-for-mr-keefe.xhtml">
 		<ignore code="t-005">
+			<line>46</line>
+			<line>62</line>
+			<line>94</line>
+			<line>96</line>
+			<line>151</line>
+			<line>170</line>
+			<line>171</line>
+			<line>185</line>
 			<reason>This is how Jack Keefe writes in-universe, and because commas are sometimes used and sometimes not, the difference is likely an intentional artistic choice by the author.</reason>
 		</ignore>
 		<ignore code="y-031">
+			<line>46</line>
+			<line>62</line>
+			<line>94</line>
+			<line>96</line>
+			<line>151</line>
+			<line>170</line>
+			<line>171</line>
 			<reason>This is how Jack Keefe writes in-universe, and because commas are sometimes used and sometimes not, the difference is likely an intentional artistic choice by the author.</reason>
 		</ignore>
 	</file>
 	<file path="corporal-punishment.xhtml">
 		<ignore code="t-005">
+			<line>33</line>
 			<reason>This is how Jack Keefe writes in-universe, and because commas are sometimes used and sometimes not, the difference is likely an intentional artistic choice by the author.</reason>
 		</ignore>
 	</file>
 	<file path="decorated.xhtml">
 		<ignore code="y-035">
+			<line>47</line>
+			<line>49</line>
+			<line>54</line>
+			<line>93</line>
+			<line>115</line>
 			<reason>In this case, we're referring to an X shape. This is neither a Grapheme nor a Phoneme as it refers to the shape of the letter, not any linguistic properties of it.</reason>
 		</ignore>
 	</file>
 	<file path="private-valentine.xhtml">
 		<ignore code="t-064">
+			<line>32</line>
+			<line>35</line>
 			<reason>Since Jack Keefe is supposed to be functionally illiterate, proper titlecasing would elevate his writing enough to meaningfully change his voice.</reason>
 		</ignore>
 	</file>
 	<file path="purls-before-swine.xhtml">
 		<ignore code="t-064">
+			<line>32</line>
 			<reason>Since Jack Keefe is supposed to be functionally illiterate, proper titlecasing would elevate his writing enough to meaningfully change his voice.</reason>
 		</ignore>
 	</file>
 	<file path="the-battle-of-texas.xhtml">
 		<ignore code="t-005">
+			<line>65</line>
+			<line>85</line>
 			<reason>This is how Jack Keefe writes in-universe, and because commas are sometimes used and sometimes not, the difference is likely an intentional artistic choice by the author.</reason>
 		</ignore>
 		<ignore code="y-031">
+			<line>65</line>
 			<reason>This is how Jack Keefe writes in-universe, and because commas are sometimes used and sometimes not, the difference is likely an intentional artistic choice by the author.</reason>
 		</ignore>
 	</file>
 	<file path="the-busher-abroad.xhtml">
 		<ignore code="s-081">
+			<line>467</line>
 			<reason>This actually isn't a continued paragraph, based on indentations in the source material. In this story especially, Jack Keefe frequently starts sentences with lowercase letters and based on the scans, that appears to be what was done here.</reason>
 		</ignore>
 		<ignore code="t-029">
 			<reason>Jack Keefe often starts sentences without an upper-case letter. All of these are intentional and match the scans.</reason>
 		</ignore>
 		<ignore code="t-041">
+			<line>834</line>
+			<line>881</line>
 			<reason>This is literally how it appears in the scans. Writing like this is consistent with Jack Keefe's characterization.</reason>
 		</ignore>
 		<ignore code="t-057">
+
 			<reason>This is literally how it appears in the scans. Writing like this is consistent with Jack Keefe's characterization.</reason>
 		</ignore>
 		<ignore code="t-064">
+			<line>65</line>
+			<line>202</line>
+			<line>299</line>
+			<line>302</line>
+			<line>314</line>
+			<line>321</line>
+			<line>392</line>
 			<reason>This is capitalized inconsistently. This suggests intentionality by the author and given Keefe's poor spellng and grammar, it would meaningfully alter Keefe's characterization to correct this.</reason>
 		</ignore>
 		<ignore code="y-035">
+			<line>47</line>
 			<reason>Replacing "oh" with just "o" is consistent with Jack Keefe's writing style</reason>
 		</ignore>
 	</file>
 	<file path="the-busher-beats-it-hence.xhtml">
 		<ignore code="y-026">
+			<line>41</line>
+			<line>112</line>
 			<reason>Jack Keefe is intentionally a poor writer and does not use completely proper English.</reason>
 		</ignore>
 	</file>
 	<file path="the-busher-pulls-a-mays.xhtml">
 		<ignore code="t-005">
+			<line>133</line>
 			<reason>This is how Jack Keefe writes in-universe, and because commas are sometimes used and sometimes not, the difference is likely an intentional artistic choice by the author.</reason>
 		</ignore>
 		<ignore code="y-003">
+			<line>61</line>
 			<reason>This is how Jack Keefe writes in-universe, and because commas are sometimes used and sometimes not, the difference is likely an intentional artistic choice by the author.</reason>
 		</ignore>
 		<ignore code="y-031">
+			<line>133</line>
 			<reason>This is how Jack Keefe writes in-universe, and because commas are sometimes used and sometimes not, the difference is likely an intentional artistic choice by the author.</reason>
 		</ignore>
 	</file>
 	<file path="the-bushers-welcome-home.xhtml">
 		<ignore code="t-057">
+			<line>13</line>
 			<reason>This is how Jack Keefe writes in-universe, and because commas are sometimes used and sometimes not, the difference is likely an intentional artistic choice by the author.</reason>
 		</ignore>
 	</file>
