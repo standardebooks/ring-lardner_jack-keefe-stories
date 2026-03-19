@@ -15,14 +15,6 @@
 		</ignore>
 	</file>
 	<file path="along-came-ruth.xhtml">
-		<ignore code="t-005">
-			<line>141</line>
-			<line>147</line>
-			<line>163</line>
-			<line>165</line>
-			<line>166</line>
-			<reason>This is how Jack Keefe writes in-universe, and because commas are sometimes used and sometimes not, the difference is likely an intentional artistic choice by the author.</reason>
-		</ignore>
 		<ignore code="y-031">
 			<line>141</line>
 			<line>147</line>
@@ -32,17 +24,6 @@
 		</ignore>
 	</file>
 	<file path="call-for-mr-keefe.xhtml">
-		<ignore code="t-005">
-			<line>46</line>
-			<line>62</line>
-			<line>94</line>
-			<line>96</line>
-			<line>151</line>
-			<line>170</line>
-			<line>171</line>
-			<line>185</line>
-			<reason>This is how Jack Keefe writes in-universe, and because commas are sometimes used and sometimes not, the difference is likely an intentional artistic choice by the author.</reason>
-		</ignore>
 		<ignore code="y-031">
 			<line>46</line>
 			<line>62</line>
@@ -51,12 +32,6 @@
 			<line>151</line>
 			<line>170</line>
 			<line>171</line>
-			<reason>This is how Jack Keefe writes in-universe, and because commas are sometimes used and sometimes not, the difference is likely an intentional artistic choice by the author.</reason>
-		</ignore>
-	</file>
-	<file path="corporal-punishment.xhtml">
-		<ignore code="t-005">
-			<line>33</line>
 			<reason>This is how Jack Keefe writes in-universe, and because commas are sometimes used and sometimes not, the difference is likely an intentional artistic choice by the author.</reason>
 		</ignore>
 	</file>
@@ -84,11 +59,6 @@
 		</ignore>
 	</file>
 	<file path="the-battle-of-texas.xhtml">
-		<ignore code="t-005">
-			<line>65</line>
-			<line>85</line>
-			<reason>This is how Jack Keefe writes in-universe, and because commas are sometimes used and sometimes not, the difference is likely an intentional artistic choice by the author.</reason>
-		</ignore>
 		<ignore code="y-031">
 			<line>65</line>
 			<reason>This is how Jack Keefe writes in-universe, and because commas are sometimes used and sometimes not, the difference is likely an intentional artistic choice by the author.</reason>
@@ -134,10 +104,6 @@
 		</ignore>
 	</file>
 	<file path="the-busher-pulls-a-mays.xhtml">
-		<ignore code="t-005">
-			<line>133</line>
-			<reason>This is how Jack Keefe writes in-universe, and because commas are sometimes used and sometimes not, the difference is likely an intentional artistic choice by the author.</reason>
-		</ignore>
 		<ignore code="y-003">
 			<line>61</line>
 			<reason>This is how Jack Keefe writes in-universe, and because commas are sometimes used and sometimes not, the difference is likely an intentional artistic choice by the author.</reason>
