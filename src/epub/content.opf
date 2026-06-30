@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/ring-lardner/jack-keefe-stories</dc:identifier>
 		<dc:date>2025-11-20T21:04:29Z</dc:date>
 		<meta property="dcterms:modified">2025-11-20T21:04:29Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
+		<meta property="rdf:type">http://schema.org/Book</meta>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
-		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org/</meta>
+		<link href="https://standardebooks.org/" refines="#publisher" rel="schema:url"/>
 		<meta property="role" refines="#publisher" scheme="marc:relators">bkd</meta>
 		<meta property="role" refines="#publisher" scheme="marc:relators">mdc</meta>
 		<meta property="role" refines="#publisher" scheme="marc:relators">pbl</meta>
 		<dc:contributor id="type-designer">The League of Moveable Type</dc:contributor>
 		<meta property="file-as" refines="#type-designer">League of Moveable Type, The</meta>
-		<meta property="se:url.homepage" refines="#type-designer">https://www.theleagueofmoveabletype.com/</meta>
+		<link href="https://www.theleagueofmoveabletype.com/" refines="#type-designer" rel="schema:url"/>
 		<meta property="role" refines="#type-designer" scheme="marc:relators">tyd</meta>
 		<meta id="conformance-statement" property="dcterms:conformsTo">EPUB Accessibility 1.1 - WCAG 2.2 Level AA</meta>
 		<meta property="a11y:certifiedBy" refines="#conformance-statement">Standard Ebooks</meta>
@@ -50,12 +51,12 @@
 		<meta property="term" refines="#subject-6">sh2010119510</meta>
 		<meta property="authority" refines="#subject-7">LCSH</meta>
 		<meta property="term" refines="#subject-7">sh2010119466</meta>
-		<meta property="se:subject">Comedy</meta>
-		<meta property="se:subject">Fiction</meta>
-		<meta property="se:subject">Satire</meta>
-		<meta property="se:subject">Shorts</meta>
-		<meta property="se:subject">Travel</meta>
-		<meta property="se:is-a-collection">true</meta>
+		<meta property="schema:genre">Comedy</meta>
+		<meta property="schema:genre">Fiction</meta>
+		<meta property="schema:genre">Satire</meta>
+		<meta property="schema:genre">Shorts</meta>
+		<meta property="schema:genre">Travel</meta>
+		<meta property="schema:additionalType">http://schema.org/Collection</meta>
 		<dc:description id="description">A boastful, nearly illiterate major league pitcher writes a series of letters home detailing the goings-on in his life and career.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;The arrogant, proud, and mostly illiterate Jack Keefe of Bedford, Indiana had already established a career pitching for the minor league baseball club in Terre Haute. His strong pitching arm attracted the attention of Chicago White Sox owner Charles Comiskey and before he knew it, Keefe had been signed to play for the team. Through the ups and downs of his life, from his baseball career, to his marriage and family, to his service in World War I and his eventual return to baseball, Jack Keefe documents everything in a series of letters to his old pal back home, Al Blanchard.&lt;/p&gt;
@@ -89,15 +90,16 @@
 		<!-- The Courtship of T. Dorgan [v.192 1919 Jul-Sep] #1522 -->
 		<!-- The Busher Pulls a Mays [v.192 1919 Oct-Dec] #410 -->
 		<dc:source>https://catalog.hathitrust.org/Record/000497622</dc:source>
-		<meta property="se:production-notes">Some spellings were left unmodernized because of it is likely they were misspelled on purpose. Transcriptions were created by the producer using Hathitrust OCR as a base for the 11 stories which had not been published in a book on Project Gutenberg. One of the published book compilations did not divide the content into separate chapters, so magazine scans were used as reference for the story breaks. "The Busher Abroad" was originally a series of four short stories all published under that name. They are represented in this omnibus as one story with four chapters, but were originally published as loosely connected short stories. Preface has been included from 1925 edition of You Know Me Al.</meta>
-		<meta property="se:word-count">236174</meta>
-		<meta property="se:reading-ease.flesch">74.56</meta>
-		<meta property="se:url.vcs.github">https://github.com/standardebooks/ring-lardner_jack-keefe-stories</meta>
+		<meta property="schema:wordCount">236174</meta>
+		<meta property="schema:educationalLevel">74.56</meta>
+		<meta property="schema:workExample" id="vcs-repository">schema:workExample</meta>
+		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
+		<link href="https://github.com/standardebooks/ring-lardner_jack-keefe-stories" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">Ring Lardner</dc:creator>
 		<meta property="file-as" refines="#author">Lardner, Ring</meta>
-		<meta property="se:name.person.full-name" refines="#author">Ringgold Wilmer Lardner</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Ring_Lardner</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79023324</meta>
+		<meta property="schema:alternateName" refines="#author">Ringgold Wilmer Lardner</meta>
+		<link href="https://en.wikipedia.org/wiki/Ring_Lardner" refines="#author" rel="schema:sameAs"/>
+		<link href="https://id.loc.gov/authorities/names/n79023324.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
 		<dc:contributor id="artist">Benton H. Clark</dc:contributor>
@@ -123,7 +125,7 @@
 		<meta property="role" refines="#transcriber-6" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-7">Distributed Proofreaders</dc:contributor>
 		<meta property="file-as" refines="#transcriber-7">Distributed Proofreaders</meta>
-		<meta property="se:url.homepage" refines="#transcriber-7">https://www.pgdp.net/</meta>
+		<link href="https://www.pgdp.net/" refines="#transcriber-7" rel="schema:url"/>
 		<meta property="role" refines="#transcriber-7" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Jonathan Erdman</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Erdman, Jonathan</meta>
@@ -137,7 +139,7 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 		<dc:contributor id="producer-2">Weijia Cheng</dc:contributor>
 		<meta property="file-as" refines="#producer-2">Cheng, Weijia</meta>
-		<meta property="se:url.homepage" refines="#producer-2">https://weijiarhymeswith.asia/</meta>
+		<link href="https://weijiarhymeswith.asia/" refines="#producer-2" rel="schema:url"/>
 		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
