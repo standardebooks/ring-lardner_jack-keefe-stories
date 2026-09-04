@@ -32,11 +32,11 @@
 		<meta property="file-as" refines="#title">Jack Keefe Stories</meta>
 		<dc:subject id="subject-1">Humorous stories</dc:subject>
 		<dc:subject id="subject-2">Epistolary Fiction</dc:subject>
-		<dc:subject id="subject-3">Baseball players -- Fiction</dc:subject>
+		<dc:subject id="subject-3">Baseball players--Fiction</dc:subject>
 		<dc:subject id="subject-4">Baseball stories</dc:subject>
 		<dc:subject id="subject-5">American wit and humor</dc:subject>
-		<dc:subject id="subject-6">World War, 1914-1918 -- Humor</dc:subject>
-		<dc:subject id="subject-7">World War, 1914-1918 -- Caricature and cartoons</dc:subject>
+		<dc:subject id="subject-6">World War, 1914-1918--Humor</dc:subject>
+		<dc:subject id="subject-7">World War, 1914-1918--Caricature and cartoons</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85062975</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
